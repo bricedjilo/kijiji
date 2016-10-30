@@ -1,0 +1,11 @@
+com\kijiji\App.class
+com\kijiji\services\CompanyService.class
+com\kijiji\domain\Company.class
+com\kijiji\services\DriverServices.class
+com\kijiji\web\CompanyController.class
+com\kijiji\utility\KijijiScreenShot.class
+com\kijiji\phantomjs\PhantomJSDemo.class
+com\kijiji\utility\Fallbacks.class
+com\kijiji\dao\CompanyDao.class
+com\kijiji\domain\Login.class
+com\kijiji\utility\Factories.class

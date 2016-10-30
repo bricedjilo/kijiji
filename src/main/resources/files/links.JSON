@@ -1,0 +1,8 @@
+{
+	"login":"https://www.kijiji.ca/t-login.html",
+	"categories":"https://www.kijiji.ca/p-select-category.html",
+	"computers":"https://www.kijiji.ca/p-select-category.html?categoryId=16",
+	"classes":{
+		"iPads, tablets":"https://www.kijiji.ca/p-post-ad.html?categoryId=776"
+	}
+}

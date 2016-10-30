@@ -1,0 +1,5 @@
+---
+applications:
+- name: finalproject
+  memory: 2048M
+  host: csci4125
